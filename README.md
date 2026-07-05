@@ -54,13 +54,13 @@ A simple bookmark manager that provides quick access to frequently used websites
 ```text
 WEB-DEV/
 │
-├── 01-first-website/
-├── 02-Bookmarks-Manager/
-├── 03-Images-Tables-Lists/
-├── 04-Forms/
-├── 05-Inline-Block-Elements/
-├── 05-Inline-Block-Elements/
-├── 06-ID-Casses-/
+├── 01-first-website
+├── 02-Bookmarks-Manager
+├── 03-Images-Tables-Lists
+├── 04-Forms
+├── 05-Inline-Block-Elements
+├── 05-Inline-Block-Elements
+├── 06-ID-Classes
 └── README.md
 ```
 
@@ -87,7 +87,7 @@ and eventually move towards full-stack web development.
 - [x] Lists & Tables
 - [x] Forms
 - [x] Inline & Block Elements
-- [x] Id & Classes
+- [x] Id & Classes 
 ---
 
 ## 👨‍💻 Author
