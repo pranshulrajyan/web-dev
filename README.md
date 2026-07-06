@@ -93,7 +93,7 @@ and eventually move towards full-stack web development.
 - [x] Id & Classes 
 - [x] Video, Audio & Media 
 - [x] Semantic Tags
-- [x] CSS Basics
+- [x] CSS Basics 
 ---
 
 ## 👨‍💻 Author
