@@ -63,6 +63,7 @@ WEB-DEV/
 ├── 06-ID-Classes
 ├── 07-Video-Audio-and-Media
 ├── 08-Semantic-Tags
+├── 09-Introduction to CSS
 └── README.md
 ```
 
@@ -92,6 +93,7 @@ and eventually move towards full-stack web development.
 - [x] Id & Classes 
 - [x] Video, Audio & Media 
 - [x] Semantic Tags
+- [x] CSS Basics
 ---
 
 ## 👨‍💻 Author
