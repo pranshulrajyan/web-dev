@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Selectors</title>
+    <style>
+        /* Element Selector*/
+        div {
+            background-color: lightblue;
+        } 
+        /* Class Selector */
+        .lightblue {
+            background-color: lightblue;
+        } 
+        /* ID Selector */
+        #yellow {
+            background-color: yellow;
+        }
+        /* Child Selector */
+        div > p {
+            color: red;
+            background-color: lightgreen;
+        }
+        /* Descendant Selector */
+        div p {
+            color: blue;
+            background-color: lightgray;
+        }
+        /* Universal Selector */
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        /* psuedo Selector */
+        a:visited {
+            color: yellow;
+        }
+        a:link {
+            color: green;
+        }
+        a:active {
+            background-color: red;
+        }
+        a:hover {
+            background-color: yellow;
+        }
+        p:first-child {
+            color: red;
+        }
+        p:last-child {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <main class="one">
+        <p> First Child</p>
+        <p> Second Child</p>
+        <p> Third Child</p>
+    </main>
+    <div class="lightblue">
+        My name is Pranshul Rajyan.
+        <article>
+        <p>This is a paragraph for child selector.</p>
+        </article>
+    </div>
+    <div id="yellow">
+        I am a web developer.
+    </div>
+    <a href="https://www.google.com">Google</a>
+    <br>
+    <a href="https://www.facebook.com">Facebook</a>
+</body>
+</html>
