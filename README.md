@@ -24,6 +24,7 @@ This repository contains my web development learning projects and practice exerc
 - Inline, Internal & External CSS
 - CSS Selectors
 - CSS Box Model
+- Fonts, Texts & Color Properties
 
 ---
 
@@ -44,6 +45,7 @@ WEB-DEV/
 ├── 09-Introduction-to-CSS3
 ├── 10-CSS-Selectors
 ├── 11-CSS-Box-Model
+├── 12-Fonts-texts-and-color-properties
 └── README.md
 ```
 
@@ -77,6 +79,7 @@ and eventually move towards full-stack web development.
 - [x] Inline, Internal & External CSS
 - [x] CSS Selectors
 - [x] CSS Box Model
+- [x] Fonts, Texts & Color Properties
 ---
 
 ## 👨‍💻 Author
