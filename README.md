@@ -21,6 +21,8 @@ This repository contains my web development learning projects and practice exerc
 
 ### ✅ CSS3
 - Introduction to CSS3
+- Inline, Internal & External CSS
+- CSS Selectors
 
 ---
 
