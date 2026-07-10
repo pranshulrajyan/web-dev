@@ -25,6 +25,7 @@ This repository contains my web development learning projects and practice exerc
 - CSS Selectors
 - CSS Box Model
 - Fonts, Texts & Color Properties
+- Specificity & Cascade
 
 ---
 
@@ -46,6 +47,7 @@ WEB-DEV/
 ├── 10-CSS-Selectors
 ├── 11-CSS-Box-Model
 ├── 12-Fonts-texts-and-color-properties
+├── 13-specificity-and-Cascade
 └── README.md
 ```
 
@@ -80,6 +82,7 @@ and eventually move towards full-stack web development.
 - [x] CSS Selectors
 - [x] CSS Box Model
 - [x] Fonts, Texts & Color Properties
+- [x] CSS Specificity & Cascade
 ---
 
 ## 👨‍💻 Author
