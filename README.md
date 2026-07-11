@@ -27,6 +27,7 @@ This repository contains my web development learning projects and practice exerc
 - Fonts, Texts & Color Properties
 - Specificity & Cascade
 - Sizing Units
+- CSS Display Properties
 
 ---
 
@@ -49,7 +50,8 @@ WEB-DEV/
 ├── 11-CSS-Box-Model
 ├── 12-Fonts-texts-and-color-properties
 ├── 13-specificity-and-Cascade
-├── 14-sizingiunits
+├── 14-sizing-units
+├── 15-CSS-display-property
 └── README.md
 ```
 
@@ -86,6 +88,7 @@ and eventually move towards full-stack web development.
 - [x] Fonts, Texts & Color Properties
 - [x] CSS Specificity & Cascade
 - [x] CSS Sizing Units
+- [x] CSS Display Properties
 ---
 
 ## 👨‍💻 Author
