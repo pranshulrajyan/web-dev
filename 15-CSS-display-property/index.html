@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Display Property</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .box {
+            text-align: center;
+            color: yellow;
+            background-color: black;
+            border: 2px solid red;
+            display: inline-block;
+            padding: 100px;
+            width: 200px;
+            display:none;/*none->element will not be displayed*/
+            visibility:hidden;/*hidden->element will be displayed but not visible*/
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box">I am a box</div>
+    <div class="box">I am another box</div>
+</body>
+
+</html>
