@@ -96,7 +96,7 @@ and eventually move towards full-stack web development.
 - [x] CSS Shadows & Outlines
 - [x] Styling lists using CSS
 ---
-
+ 
 ## 👨‍💻 Author
 
 **Pranshul Rajyan**
