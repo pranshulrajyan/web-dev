@@ -30,6 +30,7 @@ This repository contains my web development learning projects and practice exerc
 - CSS Display Properties
 - CSS Shadows & Outlines
 - Styling Lists using CSS
+- CSS overflow property
 
 ---
 
@@ -56,6 +57,7 @@ WEB-DEV/
 ├── 15-CSS-display-property
 ├── 16-Shadows-and-outlines
 ├── 17-styling-lists-using-CSS
+├── 18-CSS-overflow-property
 └── README.md
 ```
 
@@ -95,6 +97,7 @@ and eventually move towards full-stack web development.
 - [x] CSS Display Properties
 - [x] CSS Shadows & Outlines
 - [x] Styling lists using CSS
+- [x] CSS overflow propertys
 ---
  
 ## 👨‍💻 Author
