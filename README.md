@@ -28,6 +28,7 @@ This repository contains my web development learning projects and practice exerc
 - Specificity & Cascade
 - Sizing Units
 - CSS Display Properties
+- CSS Shadows & Outlines
 
 ---
 
@@ -52,6 +53,7 @@ WEB-DEV/
 ├── 13-specificity-and-Cascade
 ├── 14-sizing-units
 ├── 15-CSS-display-property
+├── 16-Shadows-and-outlines
 └── README.md
 ```
 
@@ -89,6 +91,7 @@ and eventually move towards full-stack web development.
 - [x] CSS Specificity & Cascade
 - [x] CSS Sizing Units
 - [x] CSS Display Properties
+- [x] CSS Shadows & Outlines
 ---
 
 ## 👨‍💻 Author
